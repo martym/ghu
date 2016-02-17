@@ -21,3 +21,12 @@ How do the diagrams help you visualize the branch structure?
 
 By showing the arborization.
 
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+A single united branch with interleaved history.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro:  simple merges done automatically.  Con:  devil's in the details.
+
